@@ -5,5 +5,5 @@ opencv-python==4.4.0.46
 pandas==1.1.4
 Pillow==8.0.1
 tensorboard==2.4.0
-torch==1.11.0+cu101
+torch==1.11.0+cpu
 torchvision==0.8.1+cu101
